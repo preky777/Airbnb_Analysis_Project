@@ -2,7 +2,7 @@
 Airbnb_Analysis_Project for the listings and reviews from mongo db sample dataset
 
 ## Introduction
-
+Our solution to this project is a well-structured approach that encompasses MongoDB data retrieval, comprehensive data cleaning, and geospatial visualization. Through interactive pricing and availability analysis, location-based insights, and a user-friendly dashboard, we deliver a holistic understanding of the Airbnb dataset, ensuring transparency through meticulous documentation.
 
 ## Requirements for the project
 
@@ -10,50 +10,57 @@ Airbnb_Analysis_Project for the listings and reviews from mongo db sample datase
     
     GitHub: Ensure you have a GitHub account and know the basics of using Git version control. The project uses GitHub for versioning, collaboration, and sharing code.
     
-    Mongo DB: Install MySQL or have access to a MySQL database. The project involves data extraction, transformation, and storage using MySQL, so having a MySQL server is necessary.
+    Mongo DB: Create a MongoDB Atlas Account,Set Up a Cluster,Load the Airbnb Sample Data and Import Sample Data.
     
     Required Libraries: Install the necessary Python libraries using pip install or any package manager. The essential libraries include:
     
       * pandas as pd
       * streamlit as st
-      * easyocr
-      * PIL (Python Imaging Library)
-      * mysql.connector
       * numpy as np
-      * requests
       * matplotlib.pyplot as plt
-      * os
-      * import re
-      * import cv2
-      * import base64
-
+      * plotly.express as px
+      * ast 
+      * seaborn as sns
+      
+      
+      
 Ensure all these libraries are installed before running the project code.
 
-With these prerequisites in place, you'll be ready to explore and run the Bizcard project using Python, GitHub, and MySQL. Happy coding!
+With these prerequisites in place, you'll be ready to explore and run the Airbnb project using Python, GitHub, and Mongo DB. Happy coding!
 
    
 ## Installation & Usage
 
-To access the web app, simply open the provided URL in your web browser. Once there, you can start exploring the various features available on the app. The user-friendly interface allows you to interact with the app seamlessly. Provide the necessary inputs based on your specific needs, and in return, you'll receive insightful and interactive results. Enjoy the experience and gain valuable insights from the Bizcard extraction and modification.
+To access the web app, simply open the provided URL in your web browser. Once there, you can start exploring the various features available on the app. The user-friendly interface allows you to interact with the app seamlessly. Provide the necessary inputs based on your specific needs, and in return, you'll receive insightful and interactive results. Enjoy the experience and gain valuable insights from the Airbnb Analysis Project.
 
-    1. Clone the repository to your local machine using the following command: git clone https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR.git.
+    1. Clone the repository to your local machine using the following command: git clone https://github.com/preky777/Airbnb_Analysis_Project.git.
     2. Install the required libraries.
     3. Run the .py file.
-    4. Create a MySQL database and tables, define constraints, and push data into MySQL using user-defined functions.
-    5. Open a terminal window and navigate to the directory where the app is located using the following command: cd C:\Users\Phoenix\Desktop\bs_cards.
-    6. Run the Streamlit app using the command [streamlit run bzcard.py] and access the app through the local URL provided.
+    4. Connect to the mongo db atlas and retrieve the sample_airbnb dataaset.
+    5. Open a terminal window and navigate to the directory where the app is located using the following command: cd C:\Users\Phoenix\Desktop\airbnb.
+    6. Run the Streamlit app using the command [streamlit run abnb.py] and access the app through the local URL provided.
     7. The app should now be running on a local server. If it doesn't start automatically, you can access it by going to either the given Local URL or Network URL.
-    8. Experience the power of BizCardX, where you can effortlessly navigate through the app, effortlessly upload business cards, effortlessly extract valuable data, effortlessly save and effortlessly modify information. And if the need arises, effortlessly delete as well. 
+    8. Explore the Airbnb Analysis App, perform all sorts of filter and selection operators to view the desired data of listings and reviews of different places.
     
-BizCardX revolutionizes the way you handle business cards, eliminating manual data entry and streamlining your workflow to perfection.
-
+Our comprehensive solution transforms Airbnb data into actionable insights. From data retrieval and cleaning to immersive geospatial visualizations and a user-friendly dashboard, we've provided a roadmap for harnessing the dataset's full potential. This journey of analysis and presentation equips users with valuable knowledge about Airbnb listings, prices, and trends, ensuring informed decision-making and enhancing the overall Airbnb experience.
 
 
 ## Components of the Dashboard
 
     1.Home page
     
-    2.Extraction and Modification process page
+    2.Geospatial Visualization
+
+    3.Price Analysis and Visualization
+
+    4.Availability Analysis by Season
+
+    5.Location-Based Insights
+
+    6.Interactive Visualizations
+
+    7.Dashboard Creation
+
     
 
 1. Home page:
@@ -101,6 +108,8 @@ BizCardX revolutionizes the way you handle business cards, eliminating manual da
             - Allows users to select a card holder from a list for deletion.
             - Shows a warning message with an emoji for confirmation.
             - Provides a button to delete the selected card holder's information from the database.
+
+  3.
       
 
 
