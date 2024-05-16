@@ -97,3 +97,7 @@ To run this project locally, follow these steps:
 ## Requirements
 
 The required Python libraries for this project are listed in the requirements.txt file.
+
+## App Screenshots
+
+
