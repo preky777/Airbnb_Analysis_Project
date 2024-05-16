@@ -100,4 +100,12 @@ The required Python libraries for this project are listed in the requirements.tx
 
 ## App Screenshots
 
-
+<img width="1251" alt="Screenshot 2024-05-17 033832" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/a6b28fe1-ef3a-4bd3-9869-ee2bf2df8ce4">
+<img width="1249" alt="Screenshot 2024-05-17 033922" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/432a6432-ee14-4df6-a164-95a83447e678">
+<img width="1250" alt="Screenshot 2024-05-17 033951" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/c84f58a1-7b96-4c39-b786-62fb8841b2ff">
+<img width="1250" alt="Screenshot 2024-05-17 034033" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/3936656c-6817-4a07-b499-f24ec6e44605">
+<img width="1248" alt="Screenshot 2024-05-17 034128" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/d731e690-117d-49df-a138-580e7a7c3631">
+<img width="1250" alt="Screenshot 2024-05-17 034248" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/93d68777-8b54-40a0-b6df-42b8a92de96b">
+<img width="1247" alt="Screenshot 2024-05-17 034307" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/0d8d6f26-8ea4-41f0-85a9-737a8b5c1cb9">
+<img width="1250" alt="Screenshot 2024-05-17 034330" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/3c4ff035-8a24-4413-a790-173fca585815">
+<img width="1250" alt="Screenshot 2024-05-17 034351" src="https://github.com/preky777/Airbnb_Analysis_Project/assets/107749942/fd5fc31b-0ad1-49cc-baa0-8b3f4d7df2b6">
